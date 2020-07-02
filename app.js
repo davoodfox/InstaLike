@@ -5,4 +5,5 @@ if (heartSvg.getAttribute('aria-label') === 'Like') {
     heartBtn.click();
 }
 const nextArrow = document.querySelector('a.coreSpriteRightPaginationArrow');
+nextArrow.click();    
 }, 3000)
